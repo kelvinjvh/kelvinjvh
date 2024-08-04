@@ -4,7 +4,7 @@ Desarrollador de software con experiencia en React, JavaScript y Sass.
 
 ## Proyectos destacados
 
-- [juego-preguntas-react](git@github.com:kelvinjvh/Quiz-React.git): Un juego de preguntas y respuestas desarrollado con React.
+- [juego-preguntas-react](https://github.com/kelvinjvh/quiz-react-2024.git): Un juego de preguntas y respuestas desarrollado con React.
 - [Portafolio](https://github.com/tu_usuario/portafolio): Mi portafolio personal.
 
 ## Contacto
