@@ -9,6 +9,6 @@ Desarrollador de software con experiencia en React, JavaScript y Sass.
 
 ## Contacto
 
-- [LinkedIn](https://www.linkedin.com/in/tu_usuario)
-- [Twitter](https://twitter.com/tu_usuario)
-- [Correo](mailto:tu_correo@example.com)
+- [LinkedIn]([https://www.linkedin.com/in/tu_usuario](https://www.linkedin.com/in/joel-ventura-9a791a2bb/))
+- [Instagram](https://twitter.com/tu_usuario)
+- [Codepen](https://codepen.io/Joel-Ventura)
