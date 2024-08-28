@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Joel Ventura
 
 🚀 Desarrollador Front-End con experiencia en React, JavaScript y Sass.
-# "Desarrollador front-end apasionado por crear 
+"Desarrollador front-end apasionado por crear 
 interfaces de usuario intuitivas. Con experiencia en CSS, 
 HTML, JavaScript, React y Svelte. También soy creador 
 de contenido en YouTube, donde comparto mis 
